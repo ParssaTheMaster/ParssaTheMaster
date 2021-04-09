@@ -5,11 +5,11 @@ Ich bin 23 Jahre alt und studiere für vorraussichtlich noch 2 Semestern Informa
 
 Die Programmiersprache die ich am besten beherrsche ist: 
 
-<img src="java.jpg" width="100" style="padding-right:1px">
+<img src="java.jpg" width="100">
 
 Meine IDE: 
 
-<img src="intellij.jpg" width="50" style="padding-top:10px">
+<img src="intellij.jpg" width="50">
 
 Momentan arbeite ich an: 
 
@@ -20,4 +20,6 @@ Momentan arbeite ich an:
     Eine Verlinkung des Youtube-Channels erfolgt, sobald ich die ersten Videos hochgeladen habe 🙏
     
 Ich bin gerade dabei Fuß in der IT-Branche zu fassen und versuche schon bei einem Unternehmen zu arbeiten, bei dem ich auch nach meinem Studium direkt anfangen kann 👋 👀
-    
+
+Schaut auch gerne auf meiner Website vorbei: <a href="http://parssa-jashnieh.herokuapp.com">parssa-jashnieh.com</a>
+
