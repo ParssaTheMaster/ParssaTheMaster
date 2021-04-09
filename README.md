@@ -3,9 +3,9 @@
 Mein Name ist Parssa.
 Ich bin 23 Jahre alt und studiere für vorraussichtlich noch 2 Semestern Informatik an der HHU. 
 
-Die Programmiersprache die ich am besten beherrsche ist: <img src="java.jpg" width="100" style="padding-right:1px">
+Die Programmiersprache die ich am besten beherrsche ist: |    <img src="java.jpg" width="100" style="padding-right:1px">|
 
-Meine IDE: <img src="intellij.jpg" width="50">
+Meine IDE: |   |<img src="intellij.jpg" width="50" style="padding-top:10px">|
 
 Momentan arbeite ich an: 
 
