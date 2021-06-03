@@ -9,17 +9,10 @@ Die Programmiersprache die ich am besten beherrsche ist:
 
 Meine IDE: 
 
-<img src="intellij.jpg" width="50">
-
-Momentan arbeite ich an: 
-
-  - 🍃 einer Vertiefung meiner Spring Boot und Thymeleaf Kenntnisse
-  - 💻 einer Vertiefung meiner HTML und CSS Kenntnisse
-  - 🎥 einem Youtube Channel auf dem es primär und die Themen Studium,Informatik und DIY Solutions geht, beispielsweise um den Ölwechsel selbst vorzunehmen um
-    bares 💰 zu sparen, am Beispiel des altbewährten Klassikers Golf 4.
-    Eine Verlinkung des Youtube-Channels erfolgt, sobald ich die ersten Videos hochgeladen habe 🙏
+<img src="intellij.jpg" width="50">    
     
 Ich bin gerade dabei Fuß in der IT-Branche zu fassen und versuche schon bei einem Unternehmen zu arbeiten, bei dem ich auch nach meinem Studium direkt anfangen kann 👋 👀
 
-Schaut auch gerne auf meiner Website vorbei: <a href="http://parssa-jashnieh.herokuapp.com">parssa-jashnieh.com</a>
+Gibt es mehr das Sie über mich erfahren möchten ? Dann schauen Sie doch bitte auf meiner Website vorbei !
 
+<a href="http://parssa-jashnieh.herokuapp.com">parssa-jashnieh.com</a>
